@@ -2,7 +2,7 @@ Challenge Amigo-Secreto
 
 <em> Juego Divertido </em>
 
-## :hammer:Funcionalidades del proyecto
+Funcionalidades del proyecto
 - `Ingresar Amigo`: Deber ingresar uno a uno los amigos que desean participar.
 - `Sortear Amigos`: El sistema de manera aleatoria elegira tu amigo secreto.
 
