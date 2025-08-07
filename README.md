@@ -9,8 +9,3 @@
 ### Ejecución local 
 
 No requiere ninguna instalación adicional. Simplemente abre el archivo `index.html` en tu navegador y empieza a usar la aplicación.
-
-![Badge Challenge](https://img.shields.io/badge/ALURA-ONE-green)
-
-
-- [gilbramro](https://github.com/gilbramro)
