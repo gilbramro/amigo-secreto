@@ -33,3 +33,14 @@ function mostrarListaAmigos() {
         listaAmigos.appendChild(listaHTML);
     }
 }
+//función sortear amigos
+function sortearAmigo() {
+    let amigosDisponibles = amigos.length;
+    if (amigosDisponibles === 0) {
+        alert("Por favor, ingrese de un amigo(a) antes de sortear");
+    } else {
+        let indiceAmigo = Math.floor(Math.random() * amigosDisponibles);
+        let resultadoHTML = document.querySelector("#resultado");
+        resultadoHTML.innerHTML = amigos[indiceAmigo];
+    }
+}
