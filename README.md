@@ -1,4 +1,4 @@
-:smiley: :smiley: Challenge Amigo-Secreto :smiley: :smiley:
+Challenge Amigo-Secreto
 
 <em> Juego Divertido </em>
 
